@@ -1,5 +1,5 @@
 #!/bin/bash
-#DAY1: Automated Azure Deployment Script
+# Automated Azure Deployment Script
 
 RESOURCE_GROUP="rg-demo1-dev"
 LOCATION="eastus"
