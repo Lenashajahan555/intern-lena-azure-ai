@@ -1,23 +1,22 @@
-# Azure Automated Deployment Script
+# 🚀 Journey to Data & AI Engineer (Zero to Hero)
 
-This repository contains an automated shell script (`deploy.sh`) to provision core infrastructure resources in Azure using the Azure CLI.
+Welcome to my learning and project repository! This space documents my hands-on daily tasks, lab assignments, and practical experiments as I master Python, cloud engineering, and Artificial Intelligence.
 
-## 📋 Overview
+---
 
-The script automates the creation of:
-* **Resource Group:** `rg-demo1-dev` (Location: `eastus`)
-* **Storage Account:** `storageaccdemo011` (SKU: `Standard_LRS`)
+## 🛠️ Tech Stack & Focus Areas
 
-## 🛠️ Prerequisites
+* **Programming & Automation:** Python (`requests`, CLI automation, scripting)
+* **Backend & APIs:** RESTful API integration, JSON parsing, error handling, and resiliency patterns (timeouts, retries).
+* **Cloud & DevOps:** Microsoft Azure Portal, Azure CLI, Key Vault, and Git/GitHub version control.
+* **Data & Analytics:** PostgreSQL, MySQL, and Microsoft Fabric foundations.
 
-Before running the script, ensure you have:
-1. An active Azure subscription.
-2. [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli) installed on your machine.
-3. Bash environment (Linux, macOS, or Git Bash on Windows).
+---
 
-## 🚀 How to Run
+## 📂 Repository Structure
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Lenashajahan555/intern-lena-azure-ai.git](https://github.com/Lenashajahan555/intern-lena-azure-ai.git)
-   cd intern-lena-azure-ai
+```text
+├── python basics/           # /variable,packages,function 
+├── rest and json/         # Python REST API exercises, error handling, and timeouts
+└── README.md           # Repository documentation
+└── python project 1          # Build a a project including json 
